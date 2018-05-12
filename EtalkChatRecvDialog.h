@@ -1,4 +1,5 @@
-#pragma onc
+﻿#pragma oce
+
 #ifndef __ETALKCHATRECVDIALOG__H_
 #define __ETALKCHATRECVDIALOG__H_
 
