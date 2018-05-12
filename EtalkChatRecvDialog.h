@@ -1,4 +1,4 @@
-#pragma once
+#pragma onc
 #ifndef __ETALKCHATRECVDIALOG__H_
 #define __ETALKCHATRECVDIALOG__H_
 
