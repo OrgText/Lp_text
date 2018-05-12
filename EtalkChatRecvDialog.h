@@ -1,5 +1,5 @@
-﻿
-﻿#pragma ce
+#pragma once
+
 
 #ifndef __ETALKCHATRECVDIALOG__H_
 #define __ETALKCHATRECVDIALOG__H_
