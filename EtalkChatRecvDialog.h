@@ -37,8 +37,10 @@ public:
 	CListUI *m_pRecvChatMessage;
 	EtalkImageViewerDialog *m_pEtalkImageViewerDialog;
 private:
+        CControlUI *m_pHWND;
 	CControlUI *m_pHWND;
 	struct EtalkChildDialogParameter m_EtalkChildDialogParameter;
 };
+
 
 #endif
